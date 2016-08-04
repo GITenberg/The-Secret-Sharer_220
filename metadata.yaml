@@ -1,0 +1,44 @@
+_repo: The-Secret-Sharer_220
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "\"The Secret Sharer\" is a short story by Joseph Conrad written in 1909,\
+  \ first published in Harper's Magazine in 1910, and as a book in the short-story\
+  \ collection Twixt Land and Sea (1912).\nThe story was filmed as a segment of the\
+  \ 1952 film Face to Face.\nThe Secret Sharer was adapted to a one-act play in 1969\
+  \ by C. R. (Chuck) Wobbe. The play was published in 1969 by the Dramatic Publishing\
+  \ Company.\nA new film, Secret Sharer, inspired by the novella and directed by Peter\
+  \ Fudakowski, was released in the UK in June 2014.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '220'
+  wikidata: Q1198668
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fugitives from justice -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Sea stories'
+- GITenberg
+title: The Secret Sharer
+url: http://www.gutenberg.org/ebooks/220
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Compagnon_secret
+- https://de.wikipedia.org/wiki/Der_geheime_Teilhaber
+- https://en.wikipedia.org/wiki/The_Secret_Sharer
+- https://it.wikipedia.org/wiki/Il_compagno_segreto
